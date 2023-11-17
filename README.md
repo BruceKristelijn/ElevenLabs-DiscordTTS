@@ -12,7 +12,7 @@ To run the bot a `config.json` file is required in the working directory.
 ```
 {
 	"token": "<secret token>",
-    "clientId": "<client id>"
+	"clientId": "<client id>"
 }
 ```
 
